@@ -1,0 +1,81 @@
+Soon after being established, to meet demand for baccalaureate programs
+Factory worker in a textile mill
+As soaring to national and international leadership
+The Mellon Institute, a science research center
+Work that matters
+The Marianna Brown Dietrich College of Humanities and Social Sciences
+The first IBM computer
+The largest expansion since 1900
+The College of Engineering and the College of Fine Arts
+Awarding the first U.S. drama degree
+The events happening on Thursday, May 9 are the Phi Beta Kappa Initiation Ceremony, the President's Graduates Toast for bachelor's students, and the First Gen Graduation Recognition ceremony
+The only thing listed on the schedule for Friday, May 10 is "Diploma Ceremonies Various times"
+The events happening on Saturday, May 11 besides diploma ceremonies are the Center for Student Diversity and Inclusion Ceremony, the Naval ROTC Commissioning ceremony, and The President's Reception in honor of CMU's Doctoral Candidates
+On the morning of Sunday, May 12 before the main commencement ceremony, Gesling Stadium opens to guests at 8 a.m. and the robing and procession for graduates is from 9-10 a.m. at various locations across campus. The student procession begins at 9:15 a.m.
+Yes, the text states "More details on the weekend schedule, including a diploma ceremony schedule, will be provided in the coming weeks."
+Yes, there is a reception from 3-4 p.m. in the Connan Room, Cohon University Center after the Phi Beta Kappa Initiation Ceremony
+The Senior Leadership Recognition Ceremony is being held in Wiegand Gym, Cohon University Center
+The Senior Leadership Recognition Ceremony recognizes nominated seniors who have reflected upon their specific leadership contributions during their time at CMU
+Each diploma ceremony is organized and customized by their respective college/school/department.
+No, there are no parking or transportation details mentioned in the provided text.
+The Mathematics Department offered an "applied math/CS" bachelor's degree before an undergraduate program in computer science was created.
+The two new departments formed at SCS in the 1990s were the Human-Computer Interaction Institute (1993) and the Institute for Software Research (1999).
+The three new departments/centers formed at SCS in the 2000s were the Machine Learning Department (2006), the Ray and Stephanie Lane Center for Computational Biology (2009), and the Language Technologies Institute (originally the Center for Machine Translation).
+In 2013, SCS had 284 faculty members and a total student enrollment of nearly 1,700.
+As of 2013, the Robotics Institute had more than 100 ongoing research projects.
+The Computer Science Department at Carnegie Tech was first established in 1965.
+Alan Perlis was the first head of the Computer Science Department when it was established in 1965.
+The Fringe team is celebrating its 50th anniversary of Buggy.
+Fairings are a type of housing around the wheels that help reduce drag, make the vehicle quieter, and enhance its appearance.
+The name of the Fringe team's workshop is the "Froom," located in the basement of the East Campus Garage.
+The Fringe team has a tradition of naming their buggies with the letter "B," such as Boson, Blueshift, Bissa, and Bumper.
+The Buggy Showcase is held on Thursday from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center.
+The safety requirements for drivers during Buggy races include wearing a mouth guard, goggles, a harness with three points of contact to the buggy, gloves, and a helmet.
+Some challenges faced by drivers during the races include potholes on the course, which can be dangerous for the low-riding buggies, and the condition of the course varying from year to year.
+The team's philosophy is to teach everyone how to do everything, including driving and mechanics.
+Depending on the course conditions, most heats may run just two lanes instead of three during the races.
+The Mascot Identity Task Force was led by Susan Bassett and Jennifer Church.
+The capacity of the basketball/volleyball gym is 500.
+The capacity of the soccer stadium is 250.
+The soccer stadium has a FieldTurf surface.
+The affiliation is NCAA Division III.
+The nickname is the Tartans.
+The president's name is Dr. Farnam Jahanian.
+The Kiltie Band took the field for its first official performance on November 25th, 1922.
+The Kiltie Band is administered by the Department of Athletics, Physical Education, and Recreation.
+The original Kiltie Band consisted of seven students.
+August 18 -August 23
+August 22 Th
+August 30 F
+September 2 M
+September 9 M
+September 30 M
+September 30 M
+October 14 -October 18 M-F
+October 21 M
+November 25 M
+The CMU community has launched more than 400 startups.
+More than 152 spinoff companies have been created.
+13 Academy Awards.
+13 Turing Awards.
+20 Nobel Laureates.
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.
+Jamie Callan, Ph.D. Program Director, Professor.
+Proficiency requirements include Writing, Presentation, Programming, and Teaching.
+Propose, write, and defend a Ph.D. dissertation (thesis).
+All LTI Ph.D. students must complete an oral presentation at the LTI each year.
+Advisors are selected during the first month of the program...each student will be asked to indicate a first, second and third choice for advisor.
+Students funded by research projects receive travel funding according to policies set by the individual projects.
+A student in good standing may be granted a LOA of at most 1 year, upon written request to the Ph.D. Program Director and with consent of the student's advisor.
+The target duration of the LTI Ph.D. is five years, although six years is also common.
+Carnegie Mellon has a Student Health Insurance policy requiring full-time, degree-seeking students to carry adequate medical insurance.
+"Yodas: Youtube-Oriented Dataset for Audio and Speech"
+"Automatic Speech Recognition & Understanding"
+It proposes a multi-task universal speech enhancement (MUSE) model that can perform five speech enhancement tasks.
+The paper focuses on speech separation in reverberant and noisy-reverberant scenarios as an ASR front-end.
+It proposes a novel approach of predicting other SSL models' features from a single SSL model, resulting in a light-weight framework with competitive performance.
+It addresses the Audio-Visual Target Speaker Extraction (AVTSE) task for the MISP 2023 challenge.
+It proposes a three-pass end-to-end (E2E) SLU system that integrates ASR and LM subnetworks for sequence generation tasks.
+It details the submission to the Clarity ICASSP 2023 grand challenge, focusing on developing a strong target speech enhancement system for hearing-aid devices.
+It proposes combining self-supervised representation learning methods with probabilistic topic models for unsupervised topic clustering of spoken audio.
+The system adopts a pipeline approach of ASR and NLU and applies masked LM-based data augmentation for the low-resource domain adaptation track in the Spoken Language Understanding Grand Challenge.
