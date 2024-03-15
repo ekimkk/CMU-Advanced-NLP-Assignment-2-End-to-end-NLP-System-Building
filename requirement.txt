@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+transformers
+torch
+haystack-ai
+datasets>=2.6.1
+tensorflow
+sentence_transformers>=2.2.0
+faiss-cpu
+bitsandbytes==0.40.2
+trl==0.4.7
+farm-haystack[colab,preprocessing,elasticsearch,inference,metrics]
