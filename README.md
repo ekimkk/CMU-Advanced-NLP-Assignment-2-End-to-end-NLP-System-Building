@@ -5,16 +5,18 @@ We built a end-to-end NLP System with RoBERTa, T5 and T5+Mistral. RoBERTa outper
 
 ## Getting Started
 ### Dependencies
-- Python 3.8 or higher
-- pandas (for data handling)
-- numpy (for numerical computations)
-- torch (for PyTorch deep learning framework)
-- transformers (for Hugging Face's transformers library)
-- haystack (for pipeline building)
-- jupyter (for running Jupyter notebooks)
+
+Before running this project, you must install the required dependencies. This project's dependencies are listed in the `requirements.txt` file. To install them, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Installing and Executing
-Please follow the step-by-step instructions in the jupyter notebook
+- Clone this repository to your local machine using git clone <repo-url>.
+- Navigate to the cloned directory.
+- Install the project dependencies using the command above.
+- Proceed with the rest of the installation steps as described.
 
 ## File Descriptions
 - Web Script Code: Source code for raw data extraction used in the project.
